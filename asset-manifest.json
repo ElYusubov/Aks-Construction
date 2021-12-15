@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aks-Construction/static/css/main.0a37ba20.chunk.css",
+    "main.js": "/Aks-Construction/static/js/main.f5dcc430.chunk.js",
+    "main.js.map": "/Aks-Construction/static/js/main.f5dcc430.chunk.js.map",
+    "runtime-main.js": "/Aks-Construction/static/js/runtime-main.4ac0ef53.js",
+    "runtime-main.js.map": "/Aks-Construction/static/js/runtime-main.4ac0ef53.js.map",
+    "static/js/2.6b90a1f5.chunk.js": "/Aks-Construction/static/js/2.6b90a1f5.chunk.js",
+    "static/js/2.6b90a1f5.chunk.js.map": "/Aks-Construction/static/js/2.6b90a1f5.chunk.js.map",
+    "index.html": "/Aks-Construction/index.html",
+    "static/css/main.0a37ba20.chunk.css.map": "/Aks-Construction/static/css/main.0a37ba20.chunk.css.map",
+    "static/js/2.6b90a1f5.chunk.js.LICENSE.txt": "/Aks-Construction/static/js/2.6b90a1f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ac0ef53.js",
+    "static/js/2.6b90a1f5.chunk.js",
+    "static/css/main.0a37ba20.chunk.css",
+    "static/js/main.f5dcc430.chunk.js"
+  ]
+}
